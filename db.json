@@ -1,25 +1,9 @@
 {
   "users": [
-      {
-        id: '1',
-        name: 'nelhu',
-        age: '23',
-      },
-      {
-        id: '2',
-        name: 'victor',
-        age: '23',
-      },
-      {
-        id: '3',
-        name: 'barry',
-        age: '23',
-      },
-      {
-        id: '4',
-        name: 'jobson',
-        age: '23',
-      },
+    {"id": "1", "name": "nelhu", "age": "23"},
+    {"id": "2", "name": "victor", "age": "23"},
+    {"id": "3", "name": "barry", "age": "23"},
+    {"id": "4", "name": "jobson", "age": "23"},
   ],
   "profile": {
     "name": "typicode"
