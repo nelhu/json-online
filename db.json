@@ -27,6 +27,11 @@
     { "id": 3, "title": "Post 3" }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "nelhu"
+  },
+   "detail": {
+      "address": "Beijing China",
+      "email": "547678930@qq.com",
+      "blog": "https://home.cnblogs.com/u/nelson-hu/"
+   }
 }
